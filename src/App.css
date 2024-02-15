@@ -1,0 +1,15 @@
+.table{
+  margin: -300px 0 0 400px;
+  text-align: center;
+
+}
+.table td,th{
+  padding: 10px;
+
+}
+.button{
+  padding: 15px;
+}
+.table1 td{
+padding: 6px;
+}
